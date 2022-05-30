@@ -5,6 +5,34 @@
 * Distribution
 * Cœur
 
+
+### Couche d'accès
+
+* C'est la couche la plus proche des utilisateurs finaux.
+* Les utilisateurs sont connectés à ces commutateurs.
+* Les politiques d'accès au réseau, les mécanismes de sécurité de couche 2 tels que la sécurité des ports (port-security) sont utilisés.
+* Les mécanismes de prévention de boucle de couche 2 tels que STP, RSTP, PVST, MST sont utilisés dans cette couche.
+* Les VLAN sont une autre technologie importante et la plus utilisée dans cette couche.
+
+### Couche de distribution
+
+* Bridge de la couche d'accès et de la couche coeur.
+* Agrégation de tous les commutateurs d'accès.
+* Au lieu de commutateurs L2, des commutateurs L3 sont utilisés dans la couche de distribution.
+* La redondance est utilisée dans cette couche pour surmonter le point de défaillance unique. 
+* Les politiques de distribution sont également utilisées dans cette couche.
+
+### Couche Coeur
+
+La couche centrale est également connue sous le nom de Backbone Network.
+La couche centrale (backbone) connecte les périphériques de la couche de distribution.
+
+* Les protocoles de routage sont utilisés dans cette couche
+* Fournir un routage entre eux et la couche de distribution.
+* Mise en place de dispositifs centraux redondants pour surmonter le point de défaillance unique.
+
+ 
+
 ## Types d'architectures
 ### Architecture 2 tier
 * Cœur et Distrib sont combinées.
