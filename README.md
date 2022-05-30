@@ -15,6 +15,7 @@
 * Les VLAN sont une autre technologie importante et la plus utilisée dans cette couche.
 
 ### Couche de distribution
+Le rôle de cette couche a pour rôle de filtrer, de router, d’autoriser ou non les paquets.
 
 * Bridge de la couche d'accès et de la couche coeur.
 * Agrégation de tous les commutateurs d'accès.
