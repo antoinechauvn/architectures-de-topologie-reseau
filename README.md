@@ -24,8 +24,8 @@
 
 ### Couche Coeur
 
-La couche centrale est également connue sous le nom de Backbone Network.
-La couche centrale (backbone) connecte les périphériques de la couche de distribution.
+La couche Coeur est également connue sous le nom de Backbone Network.<br>
+Le rôle consiste à relier entre eux les différents segments  d’un réseau à savoir : les sites distants, les réseaux locaux (LANs) ou les étages de l’immeuble d’une société.
 
 * Les protocoles de routage sont utilisés dans cette couche
 * Fournir un routage entre eux et la couche de distribution.
