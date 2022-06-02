@@ -60,3 +60,12 @@ Les réseaux SOHO (petits bureaux / bureaux à domicile) sont généralement con
 
 ![image](https://user-images.githubusercontent.com/83721477/170946493-15d04a4e-31dc-45a6-ac77-53372b66a2d8.png)
 
+### Architectures WAN
+
+Les principales topologies utilisées sur les WAN sont indiquées ci-dessous :
+
+* Point-to-Point
+* Hub and Spoke
+* Full Mesh
+* Dual-Homed
+
